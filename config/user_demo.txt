@@ -1,5 +1,4 @@
-📺XPB主页📺,#genre#
-XPB,https://gitee.com/xingpeibin/zb/raw/master/ds.mp4
+
 📺央视频道,#genre#
 CCTV-1
 CCTV-2
